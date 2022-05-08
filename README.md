@@ -1,5 +1,9 @@
 Hi 👋 My name is Catalin!
-=========================Beginner in programming-----------------------I started learning programming a year ago, but I didn't choose the right technology and gave up. Now I want to try something new, namely game development and desktop application.* 🌍  I'm based in Romania* ✉️  You can contact me at [msibisancatalin44@gmail.com](mailto:msibisancatalin44@gmail.com)* 🧠  I'm learning Python
+Beginner in programming
+I started learning programming a year ago, but I didn't choose the right technology and gave up. Now I want to try something new, namely game development and desktop application.
+* 🌍  I'm based in Romania* 
+* ✉️  You can contact me at [msibisancatalin44@gmail.com](mailto:msibisancatalin44@gmail.com)* 
+* 🧠  I'm learning Python
 
 ### Skills
 
